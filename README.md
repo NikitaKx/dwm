@@ -1,4 +1,5 @@
 # dwm
-Dynamic Window Manager
 
-Meson build system
+Meson build для DWM (Dynamic Window Manager)
+
+
